@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/hj3437/study_node_socket_io#readme",
   "dependencies": {
+    "create-react-app": "^5.0.1",
     "express": "^4.17.1",
     "socket.io": "^4.1.3"
   }
